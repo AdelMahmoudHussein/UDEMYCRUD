@@ -3,7 +3,7 @@
 <?php
 
     ini_set("display_errors", 1);
-    // Fwo Ways to include
+    // Two Ways to include
     //include("./db.php");
     include "db.php";
     // ------------------------------------------------------------------ //
